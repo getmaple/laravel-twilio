@@ -1,5 +1,5 @@
 {
-    "name": "aloha/twilio",
+    "name": "getmaple/twilio",
     "description": "Twilio API for Laravel",
     "type": "library",
     "keywords": ["sms","ivr","laravel","twilio"],
@@ -11,6 +11,10 @@
         {
             "name": "Hannes Van De Vreken",
             "email": "vandevreken.hannes@gmail.com"
+        },
+        {
+            "name": "Maple",
+            "email": "hello@getmaple.ca"
         }
     ],
     "homepage":"https://github.com/aloha/laravel-twilio",
